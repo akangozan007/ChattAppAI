@@ -4,7 +4,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">ReadME Generator</h3>
+  <h3 align="center">ChatAppAI PHP</h3>
 
   <p align="center">
     ChatAppAI Tools Gabuts ku yang simple .. 
@@ -25,7 +25,7 @@
 
 ## Table Of Contents
 
-* [About the Project](#about-the-project)
+* [Tentang ChattAppAI](#about-the-project)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
