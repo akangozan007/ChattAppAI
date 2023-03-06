@@ -25,7 +25,7 @@
 
 ## Table Of Contents
 
-* [Tentang ChattAppAI](#about-the-project)
+* [Tentang ChattAppAI](#tentang-chattappai)
 * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
