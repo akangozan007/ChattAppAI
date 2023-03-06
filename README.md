@@ -23,11 +23,11 @@
 
 ![Downloads](https://img.shields.io/github/downloads/ShaanCoding/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/ShaanCoding/ReadME-Generator?color=dark-green) ![Issues](https://img.shields.io/github/issues/ShaanCoding/ReadME-Generator) ![License](https://img.shields.io/github/license/ShaanCoding/ReadME-Generator) 
 
-## Table Of Contents
+## Menu / Navigasi
 
 * [Tentang ChattAppAI](#Tentang-ChatAppAI)
-* [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Terbuat](#Terbuat)
+* [Memulai](#Memulai)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
@@ -50,14 +50,13 @@ Inilah Kenapa?:
 
 
 
-## Built With
+## Terbuat
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+pada sesi ini user dibutuhkan Packages dan dependencies seperti php-json, php-8.0 dan lain-lain .
 
-## Getting Started
+## Memulai
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Disini akan dipaparkan secara prosedural untuk menginstall tool ini ke perangkat anda
 
 ### Prerequisites
 
