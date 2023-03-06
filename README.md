@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ShaanCoding/ReadME-Generator">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://g.top4top.io/s_262177y451.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">ChatAppAI PHP</h3>
