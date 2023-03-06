@@ -7,17 +7,17 @@
   <h3 align="center">ReadME Generator</h3>
 
   <p align="center">
-    An Awesome ReadME Generator To Jumpstart Your Projects!
+    ChatAppAI Tools Gabuts ku yang simple .. 
     <br/>
     <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <a href="#"><strong>Tutorial Cara Pakai? »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/ShaanCoding/ReadME-Generator">View Demo</a>
+    <a href="#">Langsung Pakai? Demo</a>
     .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Report Bug</a>
+    <a href="#">Laporkan Bug Untukku ^_^</a>
     .
-    <a href="https://github.com/ShaanCoding/ReadME-Generator/issues">Request Feature</a>
+    <a href="#">Masukan untuk fitur tambahan Tools Ini</a>
   </p>
 </p>
 
